@@ -9,26 +9,46 @@
 
 Welcome to Unblocked Games 76, your ultimate destination for free online gaming entertainment! Play hundreds of popular games directly in your browser without any restrictions.
 
-## 🎯 Popular Games
+
+
+## 🎯 Play Popular Unblocked Games
 
 ### Action & Adventure
-- [Slope](game-link)
-- [Happy Wheels](game-link) 
-- [Run 3](game-link)
-- [Temple Run 2](game-link)
+- [Slope]
+- [Happy Wheels]
+- [Run 3]
+- [Temple Run 2]
 
 ### Racing Games
 - [Eggy Car](https://playeggycar.com/)
 - [Eggy Car Unblocked](https://unblocked-gaming.github.io/eggy-car-unblocked/)
-- [Hill Climb Racing](game-link)
-- [Moto X3M](game-link)
-- [Drive Mad](game-link)
+
 
 ### Strategy & Puzzle
-- [2048](game-link)
-- [Tetris](game-link)
-- [Chess](game-link)
-- [Bubble Shooter](game-link)
+- [Block Blast Unblocked](https://unblocked-gaming.github.io/block-blast-unblocked/)
+
+
+### Incremental Games
+- [CPS Test](https://thecpstest.com/)
+- [CPS Test Unblocked](https://cps-test-unblock.github.io/)
+- [Spacebar Clicker](https://space-bar-clicker.github.io/)
+- [Spacebar Clicker](https://thespacebarcounter.com/) Alternative Link
+- [Spacebar Clicker Unblocked](https://unblocked-gaming.github.io/spacebar-clicker-unblocked/)
+- 
+
+## What is Unblocked Games 76?
+Unblocked Games 76 is a specialized gaming platform designed to provide free access to a wide variety of online games that can be played directly in your web browser. The number "76" represents a unique collection identifier that distinguishes this platform from other similar services, offering its own curated selection of games. At its core, it's a repository of free-to-play games that have been optimized for browser-based gameplay without requiring downloads or installations.
+
+## Why is it Called "Unblocked"?
+The term "Unblocked" in Unblocked Games 76 refers to the accessibility of these games in environments where gaming websites are typically restricted or blocked. Many institutions like schools, offices, and organizations often implement web filters or firewalls that restrict access to gaming websites. Here's why the "Unblocked" designation is significant:
+Access in Restricted Environments
+
+- Traditional gaming websites are often blocked by network administrators
+- Unblocked games can typically be accessed despite network restrictions
+- The platform uses various technical approaches to remain accessible
+- Games are hosted in a way that bypasses common web filters
+
+  
 
 ## Why Choose Unblocked Games 76?
 
