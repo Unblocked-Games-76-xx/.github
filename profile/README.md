@@ -185,4 +185,4 @@ Start playing now and join thousands of happy gamers enjoying unlimited free ent
 
 Ready to play? Choose any game from our collection and start having fun right away! Remember to bookmark our site for easy access to the best unblocked games.
 
-[Start Playing Now](#) 🎮
+[Start Playing Now](https://sites.google.com/view/ubg76/home) 🎮
