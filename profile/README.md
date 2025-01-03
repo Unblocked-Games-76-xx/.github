@@ -1,4 +1,4 @@
-# Unblocked Games 76 🎮 
+# Unblocked Games 76 | Play Unblocked Games | No Restrictions 🎮 
 
 <!--
  SEO Meta Information
@@ -13,11 +13,6 @@ Welcome to Unblocked Games 76, your ultimate destination for free online gaming 
 
 ## 🎯 Play Popular Unblocked Games
 
-### Action & Adventure
-- [Slope]
-- [Happy Wheels]
-- [Run 3]
-- [Temple Run 2]
 
 ### Racing Games
 - [Eggy Car](https://playeggycar.com/)
@@ -34,7 +29,12 @@ Welcome to Unblocked Games 76, your ultimate destination for free online gaming 
 - [Spacebar Clicker](https://space-bar-clicker.github.io/)
 - [Spacebar Clicker](https://thespacebarcounter.com/) Alternative Link
 - [Spacebar Clicker Unblocked](https://unblocked-gaming.github.io/spacebar-clicker-unblocked/)
-- 
+
+### Action & Adventure
+- [Slope]
+- [Happy Wheels]
+- [Run 3]
+- [Temple Run 2]
 
 ## What is Unblocked Games 76?
 Unblocked Games 76 is a specialized gaming platform designed to provide free access to a wide variety of online games that can be played directly in your web browser. The number "76" represents a unique collection identifier that distinguishes this platform from other similar services, offering its own curated selection of games. At its core, it's a repository of free-to-play games that have been optimized for browser-based gameplay without requiring downloads or installations.
