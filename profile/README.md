@@ -18,7 +18,8 @@ Welcome to Unblocked Games 76, your ultimate destination for free online gaming 
 - [Temple Run 2](game-link)
 
 ### Racing Games
-- [Eggy Car](game-link)
+- [Eggy Car](https://playeggycar.com/)
+- [Eggy Car Unblocked](https://unblocked-gaming.github.io/eggy-car-unblocked/)
 - [Hill Climb Racing](game-link)
 - [Moto X3M](game-link)
 - [Drive Mad](game-link)
