@@ -9,20 +9,24 @@ Welcome to Unblocked Games 76, your ultimate destination for free online gaming 
 
 
 ### Racing Games
-- #### [Eggy Car](https://playeggycar.com/)
-- #### [Eggy Car Unblocked](https://unblocked-gaming.github.io/eggy-car-unblocked/)
+
+- #### <a href="https://playeggycar.com/">Play Eggy Car</a>
+- #### <a href="https://unblocked-gaming.github.io/eggy-car-unblocked/">Play Eggy Car Unblocked</a>
 
 
 ### Strategy & Puzzle
-- #### [Block Blast Unblocked](https://unblocked-gaming.github.io/block-blast-unblocked/)
+
+- #### <a href="https://unblocked-gaming.github.io/block-blast-unblocked/">Play Block Blast Unblocked</a>
 
 
 ### Incremental Games
-- #### CSP Test: [Click to Play CPS Test](https://thecpstest.com/)
-- #### [CPS Test Unblocked](https://cps-test-unblock.github.io/)
-- #### [Spacebar Clicker](https://space-bar-clicker.github.io/)
-- #### [Spacebar Clicker](https://thespacebarcounter.com/) Alternative Link
-- #### [Spacebar Clicker Unblocked](https://unblocked-gaming.github.io/spacebar-clicker-unblocked/)
+
+- #### <a href="https://thecpstest.com/">Play CPS Test</a>
+- #### <a href="https://cps-test-unblock.github.io/">Play CPS Test Unblocked</a>
+- #### <a href="https://space-bar-clicker.github.io/">Spacebar Clicker</a>
+- #### <a href="https://thespacebarcounter.com/">Spacebar Clicker</a> Alternative Link
+- #### <a href="https://unblocked-gaming.github.io/spacebar-clicker-unblocked/">Spacebar Clicker Unblocked</a>
+
 
 ### Action & Adventure
 - #### [Slope]
