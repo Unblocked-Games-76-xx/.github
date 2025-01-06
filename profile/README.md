@@ -7,7 +7,6 @@ Welcome to Unblocked Games 76, your ultimate destination for free online gaming 
 
 ## 🎯 Play Popular Unblocked Games
 
-<a href="https://www.w3schools.com">Visit W3Schools.com!</a>
 
 ### Racing Games
 - #### [Eggy Car](https://playeggycar.com/)
