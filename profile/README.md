@@ -7,6 +7,7 @@ Welcome to Unblocked Games 76, your ultimate destination for free online gaming 
 
 ## 🎯 Play Popular Unblocked Games
 
+- #### <a href="https://github.com/Unblocked-Games-6x-free/">Unblocked Games 6x</a>
 
 ### Racing Games
 
